@@ -9,3 +9,7 @@ public static void main(String[] args){
 int sum(int a,int b){
     return a+b;
 }
+
+int chengf(int a,int b){
+    return a*b;
+}
